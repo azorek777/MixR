@@ -1,0 +1,11 @@
+{
+"button_light_menu": "#fc23e7",
+"button_dark_menu": "#27fc23",
+"slider_light": "#ff6505",
+"slider_dark": "#05e6ff",
+"button_light": "#d257ff",
+"button_dark": "#fc0026",
+"pressed_button": "#171a18",
+"button_hover_light": "#d0ff00",
+"button_hover_dark": "#070438" 
+}
