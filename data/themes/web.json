@@ -1,0 +1,13 @@
+{
+    "button_light_menu": "#4694FF",
+    "button_dark_menu": "#4694FF",
+    "slider_light": "#4694FF",
+    "slider_dark": "#4694FF",
+    "button_light": "#4694FF",
+    "button_dark": "#4694FF",
+    "pressed_button": "#6664aa",
+    "button_hover_light": "#FFFFFF",
+    "button_hover_dark": "#FFFFFF",
+    "text_color_light": "white",
+    "text_color_dark": "white" 
+    }

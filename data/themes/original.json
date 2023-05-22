@@ -1,0 +1,13 @@
+{
+"button_light_menu": "blue",
+"button_dark_menu": "red",
+"slider_light": "blue",
+"slider_dark": "red",
+"button_light": "blue",
+"button_dark": "red",
+"pressed_button": "orange",
+"button_hover_light": "dark blue",
+"button_hover_dark": "dark red",
+"text_color_light": "black",
+"text_color_dark": "white"  
+}

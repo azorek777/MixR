@@ -1,0 +1,13 @@
+{
+    "button_light_menu": "blue",
+    "button_dark_menu": "pink",
+    "slider_light": "blue",
+    "slider_dark": "#676767",
+    "button_light": "pink",
+    "button_dark": "#676767",
+    "pressed_button": "pink",
+    "button_hover_light": "#676767",
+    "button_hover_dark": "pink",
+    "text_color_light": "black",
+    "text_color_dark": "white" 
+    }

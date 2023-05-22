@@ -27,6 +27,7 @@
  "Functions Label": "Funckje",
  "Macro Label": "Macro",
  "Cancel Button": "Anuluj",
+ "Save Button": "Zapisz",
  "Play/Pause": "Play/Pauza",
  "Mute Mic": "Wycisz Mikrofon",
  "Next Song": "Dalej",
@@ -37,11 +38,30 @@
  "Lock Screen": "Zablokuj Ekran",
  "Port Select Label": "Wybierz Port",
  "App Select Label": "Wybierz Program",
+ "Set Macro Label": "Ustaw Macro",
  "Tray Show": "MixR",
- "Tray Close": "Zamknij"
- 
-
-
-
-
+ "Tray Close": "Zamknij",
+ "Keyboard Function": "Funkcja Klawiatury",
+ "Set Keyboard Function": "Wybierz Klawisz",
+ "Restart App": "Zresetuj program!",
+ "Select function": "Wybierz Funkcje",
+ "Set Name": "Ustaw Nazwe",
+ "Keyboard": "Klawiatura: ",
+ "Master Volume": "Poziom Globalny",
+ "Theme Button Menu Light": "Przycisk menu jasny:",
+ "Theme Button Menu Dark": "Przycisk menu ciemny:",
+ "Theme Slider Light": "Potencjometr jasny:",
+ "Theme Slider Dark": "Potencjometr ciemny:",
+ "Theme Button Light": "Przycisk jasny:",
+ "Theme Button Dark": "Przycisk ciemny:",
+ "Theme Button Clicked": "Kolor akcji:",
+ "Theme Button Hover Light": "Kolor aktywacji jasny:",
+ "Theme Button Hover Dark": "Kolor aktywacji ciemny:",
+ "Theme Text Light": "Tekst jasny:",
+ "Theme Text Dark": "Tekst ciemny:",
+ "Theme Preview": "Wynik:",
+ "Tab Letters": "Litery",
+ "Tab Functions": "Funkcje",
+ "Tab Numbers": "Liczby",
+ "Tab Others": "Inne"
 }
